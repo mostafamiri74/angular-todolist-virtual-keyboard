@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+@import "simple-keyboard/build/css/index.css";
+
+html,
+body {
+  font-family: sans-serif;
+  overflow: hidden;
+  box-sizing: border-box;
+}

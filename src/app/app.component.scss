@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.keyboard-box {
+  width: 70vw;
+  height: 100vh;
+  // background-color: red;
+  padding: 6rem 0;
+}
+
+.notes-box {
+  width: 30vw;
+  height: 100vh;
+  // background-color: blue;
+  padding: 2rem 5rem;
+  overflow-y: scroll;
+}
